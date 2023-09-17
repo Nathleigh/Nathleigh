@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nathleigh
 - 👀 I’m interested in data science and analytics, especially for social & environmental issues
 - 🌱 I’m currently learning: Python coding 
-- 💞️ I’m looking to collaborate on: student projects
-- 📫 How to reach me?
+- 💞️ I’m seeking projects, internships, work opportunities
+- 📫 Contact me at nathleigh@yahoo.com.au
 
 <!---
 Nathleigh/Nathleigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
