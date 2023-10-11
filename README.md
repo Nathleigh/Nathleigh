@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathleigh
 - 👀 I’m interested in data science and analytics, especially for social & environmental issues
-- 🌱 I’m currently learning: Python coding, data science, machine learning, deep learning
+- 🌱 Currently learning: Python coding, data science, machine learning, deep learning
 - 💞️ I’m seeking projects, internships, work opportunities
 - 📫 Contact me at nathleigh@yahoo.com.au
 
